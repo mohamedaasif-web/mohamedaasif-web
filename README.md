@@ -17,7 +17,7 @@
 
   <p>
     <img src="https://img.shields.io/badge/🌍_India-1e1e2e?style=for-the-badge" />
-    <a href="mailto:midhunnk2019@gmail.com"><img src="https://img.shields.io/badge/📧mohamedaasif0110@gmail.com-1e1e2e?style=for-the-badge" /></a>
+    <a href="mailto:mohamedaasif0110@gmail.com"><img src="https://img.shields.io/badge/📧mohamedaasif0110@gmail.com-1e1e2e?style=for-the-badge" /></a>
     
   </p>
 
@@ -26,36 +26,29 @@
 <p align="left">
 
 
-  <a href="https://github.com/Midhun-Nk">
+  <a href="https://github.com/mohamedaasif-web">
     <img src="https://img.shields.io/badge/GitHub-1A1A1A?style=for-the-badge&logoColor=white" />
   </a>
 
-  <a href="https://instagram.com/mike.devlogs">
+  <a href="https://www.instagram.com/aasiii__rx__?igsh=MXJ1OHRtbjB6d25pNw%3D%3D">
     <img src="https://img.shields.io/badge/Instagram-E1306C?style=for-the-badge&logoColor=white" />
   </a>
 
-  <a href="https://linkedin.com/in/midhun-nk">
+  <a href="https://www.linkedin.com/in/mohamed-aasif-587543371?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logoColor=white" />
   </a>
 
-  <a href="https://x.com/mike_devlogs">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logoColor=white" />
-  </a>
-
-  <a href="https://youtube.com/EduMikeStudio">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logoColor=white" />
-  </a>
 </p>
 
 
-  <img src="https://komarev.com/ghpvc/?username=Midhun-Nk&style=flat-square&color=blue" alt="Profile Visit"/>
 </div>
 
 <br clear="all" />
 
 
-## 🛠️ Skills
+
 <p align="center">
+## 🛠️ Skills
 <table>
 <tr>
 <td width="50%" align="center">
